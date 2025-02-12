@@ -1,6 +1,6 @@
 https://fontforge.org/docs/tutorial.html
 
-# FontForge
+### FontForge
 Navigation
 Tutorial
 1. Font and glyph creation
@@ -16,9 +16,6 @@ Tutorial
 11. Working with Bitmap Fonts
 12. FontForge Scripting Tutorial
 13. Special thoughts for special scripts
-Tutorial in other languages
-Tutorial in Japanese
-Tutorial in German
 FontForge’s User Interface
 Scripting FontForge
 Technical References
